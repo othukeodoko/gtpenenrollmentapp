@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gtpenenrollmentapp.Server", "gtpenenrollmentapp.Server\gtpenenrollmentapp.Server.csproj", "{7296E9A5-7239-4549-9809-DF3E38DADCE9}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "gtpenenrollmentapp.client", "gtpenenrollmentapp.client\gtpenenrollmentapp.client.esproj", "{734581C6-47D6-4323-820D-22DCE0251DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7296E9A5-7239-4549-9809-DF3E38DADCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7296E9A5-7239-4549-9809-DF3E38DADCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7296E9A5-7239-4549-9809-DF3E38DADCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7296E9A5-7239-4549-9809-DF3E38DADCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734581C6-47D6-4323-820D-22DCE0251DA7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A1F414-C1D1-46BC-A7A1-5A7F45DAA743}
+	EndGlobalSection
+EndGlobal

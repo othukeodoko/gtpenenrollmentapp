@@ -1,0 +1,70 @@
+﻿/*#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}*/
+/*
+tr:nth-child(even) {
+    background: #F2F2F2;
+}
+
+tr:nth-child(odd) {
+    background: #FFF;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}*/
+
+/*Registration Styling*/
+.container {
+    border: 1px red solid;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.nav-tabs {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-item {
+    list-style: none;
+    /*margin: 1em;*/
+}
+h1.welcome-header {
+    text-align: center;
+}
+.nav-link {
+    list-style: circle;
+    color: blue;
+    border: 1px solid black;
+    padding: 1em;
+    border-radius: 5%;
+    cursor: pointer;
+}
+.tab-content {
+    max-width: 600px;
+    border: 1px red solid;
+    margin: 0 auto;
+    padding: 1.5em;
+    margin-bottom: 2em;
+}
+.nav-item .active{
+    background:blue;
+    color: white;
+}
+
+.save-btn{
+    background: green;
+    color: white;
+}
+.toggle-btn {
+
+}
+.tab-pane {
+    display: none;
+}
+.tab-pane.active {
+        display: block;
+}
